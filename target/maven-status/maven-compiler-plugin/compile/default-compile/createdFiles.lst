@@ -1,0 +1,17 @@
+com\hotel\dao\AbstractDao.class
+com\hotel\controller\HotelController.class
+com\hotel\dao\LocationDaoImpl.class
+com\hotel\service\HotelService.class
+com\hotel\service\HotelServiceImpl.class
+com\hotel\service\LocationService.class
+com\hotel\configuration\HibernateConfiguration.class
+com\hotel\service\LocationServiceImpl.class
+com\hotel\controller\LocationController.class
+com\hotel\dao\LocationDao.class
+com\hotel\dao\HotelDao.class
+com\hotel\model\Hotel.class
+com\hotel\configuration\AppInitializer.class
+com\hotel\model\Location.class
+com\hotel\util\Methods.class
+com\hotel\configuration\AppConfig.class
+com\hotel\dao\HotelDaoImpl.class

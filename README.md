@@ -11,4 +11,4 @@
 8. Cheers!
 
 ##Entity-Relationship Diagram
-https://github.com/maheshrathnayaka/HotelApp/blob/master/ERD/Hotel%20ERD.png
+![solarized palette](https://github.com/maheshrathnayaka/HotelApp/blob/master/ERD/Hotel%20ERD.png)
